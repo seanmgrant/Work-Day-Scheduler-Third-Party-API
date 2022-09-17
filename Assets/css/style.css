@@ -6,11 +6,16 @@ body {
 
 textarea {
   background: transparent;
-  border: none;
+  border: solid 2px orange;
   resize: none;
   color: #000000;
   border-left: 1px solid black;
   padding: 10px;
+  width: 80%;
+}
+
+.save-icon {
+  border: solid 2px black;
 }
 
 .jumbotron {
